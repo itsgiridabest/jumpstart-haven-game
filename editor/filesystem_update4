@@ -2,3 +2,4 @@ res://main.tscn
 res://player.gd
 res://enemy.gd
 res://spawner.gd
+res://main.gd
